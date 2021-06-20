@@ -1,5 +1,5 @@
 # Heart_Disease_Prediction
-Predicting Heart disease using different Supervised Learning Models to find out whether the model is equally good at predicting having heart disease (positive) and not having heart disease (negative) cases correctly.
+Predicting Heart disease using different Supervised Learning Models to find out which of these models are good at predicting having heart disease (positive) and not having heart disease (negative) cases correctly.
 
 The data has collected on health profile parameters of people showing symptoms of heart disease and their diagnostic results are given in the Heart_Disease_Data file. The list of health profile features on which data is collected are given below:
 
